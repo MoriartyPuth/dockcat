@@ -4,7 +4,7 @@
 (see `LICENSE`).
 
 **Cat sprites** — from a free pixel-cat asset pack on itch.io, used with the
-pack's permission (free to use). The yarn-ball toy sprite is original.
+pack's permission (free to use).
 
 > ⚠️ Please replace this line with the exact pack name, author, and itch.io
 > link, e.g. *"Cat sprites by <Author> — <https://author.itch.io/pack>"*, so the

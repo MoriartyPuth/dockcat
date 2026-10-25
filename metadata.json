@@ -1,7 +1,7 @@
 {
   "uuid": "dockcat@MoriartyPuth.github.io",
   "name": "Dockcat",
-  "description": "A pixel cat that lives on your dock. It walks, runs, naps, meows, bats a yarn ball around, and leaps off and climbs back onto the dock. Appears only while the dock is visible.",
+  "description": "A pixel cat that lives on your dock. It walks, runs, naps, meows, plays, and leaps off and climbs back onto the dock. Appears only while the dock is visible.",
   "shell-version": ["50"],
   "url": "https://github.com/MoriartyPuth/dockcat",
   "version-name": "1.0.0"

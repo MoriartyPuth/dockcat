@@ -1,8 +1,7 @@
 # Dockcat
 
 A little pixel cat that lives on your GNOME dock. It strolls back and forth
-across the dock icons, runs, naps, meows, grooms, stretches, bats a yarn ball
-around (with rolling physics), and leaps off the ends of the dock before
+across the dock icons, runs, naps, meows, grooms, stretches, plays, and leaps off the ends of the dock before
 climbing back up. It only appears while the dock is visible, so it stays out of
 the way when you're working in a window.
 
@@ -12,8 +11,7 @@ the cat on top of them.
 ## Features
 
 - A cat that wanders and plays on the dock — walk, run, sit, groom, scratch,
-  stretch, loaf, sleep, meow.
-- A yarn ball the cat bats around, with friction and soft bounces.
+  stretch, loaf, sleep, meow, play.
 - Fall-off-the-edge and leap-back-up behaviour.
 - Shows only while the dock is on screen.
 
