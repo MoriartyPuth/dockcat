@@ -1,0 +1,42 @@
+# Dockcat
+
+A little pixel cat that lives on your GNOME dock. It strolls back and forth
+across the dock icons, runs, naps, meows, grooms, stretches, bats a yarn ball
+around (with rolling physics), and leaps off the ends of the dock before
+climbing back up. It only appears while the dock is visible, so it stays out of
+the way when you're working in a window.
+
+Designed for a bottom **Dash to Dock**; it measures the dock's app icons to keep
+the cat on top of them.
+
+## Features
+
+- A cat that wanders and plays on the dock — walk, run, sit, groom, scratch,
+  stretch, loaf, sleep, meow.
+- A yarn ball the cat bats around, with friction and soft bounces.
+- Fall-off-the-edge and leap-back-up behaviour.
+- Shows only while the dock is on screen.
+
+## Requirements
+
+- GNOME Shell 50.
+- A visible dock (built for Dash to Dock at the bottom of the screen).
+
+## Install from source
+
+```sh
+make install
+```
+
+Then log out and back in, and enable **Dockcat** in the Extensions app.
+
+## Build a zip
+
+```sh
+make pack
+```
+
+## Credits & license
+
+Code is GPL-2.0-or-later. The cat sprites come from a free itch.io pack — see
+[`CREDITS.md`](CREDITS.md). Please keep the sprite attribution intact.
