@@ -1,5 +1,7 @@
 # Dockcat
 
+![Dockcat sitting on the dock](screenshots/dockcat.png)
+
 A little pixel cat that lives on your GNOME dock. It strolls back and forth
 across the dock icons, runs, naps, meows, grooms, stretches, plays, and leaps off the ends of the dock before
 climbing back up. It only appears while the dock is visible, so it stays out of
