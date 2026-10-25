@@ -36,5 +36,10 @@ make pack
 
 ## Credits & license
 
-Code is GPL-2.0-or-later. The cat sprites come from a free itch.io pack — see
-[`CREDITS.md`](CREDITS.md). Please keep the sprite attribution intact.
+Code is GPL-2.0-or-later.
+
+The cat sprites are from
+[64x64 FREE Pixel Cats animated NPC](https://last-tick.itch.io/animated-pixel-cats-64x64)
+by [Last tick](https://last-tick.itch.io/). They are not covered by the GPL and
+stay under the artist's own license — see [`CREDITS.md`](CREDITS.md). Please
+keep the attribution intact.
